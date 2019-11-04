@@ -1,0 +1,1 @@
+# screensafe-translations
