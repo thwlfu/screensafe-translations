@@ -1,0 +1,20 @@
+{
+    "%i Loops" = "%i Επαναλήψεις";
+    "Choose video" = "Επιλογή Βίντεο";
+    "Credits" = "↓ Ευχαριστίες";
+    "Download" = "Κατεβάστε";
+    "Download screensavers" = "Κατεβάστε προφυλάξεις οθόνης";
+    "Enable tweak" = "Ενεργοποίηση tweak";
+    "For helping me when i was stuck in developing " = "Για τη βοήθειά του όσο ήμουν κολλημένος στην ανάπτυξη";
+    "Force clear video" = "Υποχρεωτικός Καθαρισμός Βίντεο";
+    "Force clear video in case you are unable to select a new one" = "Υποχρεωτικός καθαρισμός βίντεο σε περίπτωση που δεν μπορείτε να επιλέξετε καινούριο";
+    "Giving me the tweak idea" = "Μου έδωσε την ιδέα για αυτό το tweak";
+    "LPM while in screensaver" = "Χαμηλή Ισχύς όσο είναι στην προφύλαξη οθόνης";
+    "Only when authenticated" = "Μόνο όταν έχει ταυτοποιηθεί";
+    "Other options" = "Άλλες ρυθμίσεις";
+    "Scale to fill" = "Προσαρμογή κλίμακας σε γέμισμα";
+    "Select custom video" = "Επιλογή προσαρμοσμένου βίντεο";
+    "Testers" = "Δοκιμαστές";
+    "Toggle" = "Μοχλός";
+    "Video loops (0 = infinite)" = "Επαναλήψεις Βίντεο (0 = άπειρες)";
+}
