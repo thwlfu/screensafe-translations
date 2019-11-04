@@ -1,0 +1,20 @@
+{
+    "%i Loops" = "%i Повторы";
+    "Choose video" = "Выбрать видео";
+    "Credits" = "↓ Титры";
+    "Download" = "Скачать";
+    "Download screensavers" = "Скачать заставки";
+    "Enable tweak" = "Активировать твик";
+    "For helping me when i was stuck in developing " = "За то, что помог мне, когда я застрял в разработке ";
+    "Force clear video" = "Принудительно очистить видео";
+    "Force clear video in case you are unable to select a new one" = "Принудительно очистить видео в случае, если вы не можете выбрать новое";
+    "Giving me the tweak idea" = "Давать мне идею для твика";
+    "LPM while in screensaver" = "Режим Энергосбережения во время заставки";
+    "Only when authenticated" = "Только когда аутентифицированный";
+    "Other options" = "Другие опции";
+    "Scale to fill" = "Масштабировать чтобы заполнить";
+    "Select custom video" = "Выбрать собственное видео";
+    "Testers" = "Тестировщики";
+    "Toggle" = "Активировать / Остановить";
+    "Video loops (0 = infinite)" = "Повторы видео (0 = бесконечно)";
+}
