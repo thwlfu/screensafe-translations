@@ -1,0 +1,20 @@
+{
+    "%i Loops" = "%i تكرار دوران";
+    "Choose video" = "اختيار فيديو";
+    "Credits" = "↓ شكر خاص";
+    "Download" = "قائمة تنزيلات";
+    "Download screensavers" = "تحميل شاشة توقف جديدة";
+    "Enable tweak" = "تفعيل";
+    "For helping me when i was stuck in developing " = "مساعدي اثناء برمجة الاداة";
+    "Force clear video" = "تحديد مقطع فيديو واضح";
+    "Force clear video in case you are unable to select a new one" = "تحديد مقطع فيديو واضح في حال تعذر عليك تحديد مقطع فيديو جديد";
+    "Giving me the tweak idea" = "فكرة الاداة";
+    "LPM while in screensaver" = "تفعيل موفر الطاقة مع شاشة التوقف";
+    "Only when authenticated" = "فقط عند المصادقة";
+    "Other options" = "اعدادات اضافية";
+    "Scale to fill" = "حجم مناسب للشاشة";
+    "Select custom video" = "اختيار فيديو مخصص";
+    "Testers" = "مجربو الاداة";
+    "Toggle" = "تفعيل / ايقاف";
+    "Video loops (0 = infinite)" = "عدد مرات تكرار";
+}
