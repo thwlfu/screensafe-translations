@@ -1,0 +1,20 @@
+{
+    "%i Loops" = "%i Repeticiones";
+    "Choose video" = "Escoger video";
+    "Credits" = "↓ Créditos";
+    "Download" = "Descargar";
+    "Download screensavers" = "Descargar Salvapantallas";
+    "Enable tweak" = "Habilitar tweak";
+    "For helping me when i was stuck in developing " = "Por ayudarme cuando estaba atascado desarrollándolo";
+    "Force clear video" = "Forzar a limpiar video";
+    "Force clear video in case you are unable to select a new one" = "Forzar a limpiar video en caso de que no este disponible seleccionar uno nuevo";
+    "Giving me the tweak idea" = "Por darme la idea del tweak";
+    "LPM while in screensaver" = "LPM mientras está en salvapantalla";
+    "Only when authenticated" = "Sólo cuando está autenticado";
+    "Other options" = "Otras opciones";
+    "Scale to fill" = "Escalar para llenar";
+    "Select custom video" = "Seleccionar un video personalizado";
+    "Testers" = "Testers";
+    "Toggle" = "Toggle";
+    "Video loops (0 = infinite)" = "Repeticiones del video (0 = infinito)";
+}
