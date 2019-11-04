@@ -1,0 +1,20 @@
+{
+    "%i Loops" = "%i Schleife";
+    "Choose video" = "Video ausw\U00e4hlen";
+    Credits = "Credit"s;
+    Download = "Runterladen";
+    "Download screensavers" = "Screensavers runterladen";
+    "Enable tweak" = "Tweak aktivieren";
+    "For helping me when i was stuck in developing " = "Weil du mir geholfen hast, als ich in der Entwicklung steckte";
+    "Force clear video" = "Video erzwingen";
+    "Force clear video in case you are unable to select a new one" = "Erzwungenes Video l\U00f6schen";
+    "Giving me the tweak idea" = "Tweak Ideen geben ";
+    "LPM while in screensaver" = "Energiesparmodus im Bildschirmschoner";
+    "Only when authenticated" = "Nur wenn authentifiziert";
+    "Other options" = "Andere Optionen ";
+    "Scale to fill" = "Zum F\U00fcllen skalieren";
+    "Select custom video" = "Benutzerdefiniertes Video ausw\U00e4hlen ";
+    Testers = "Tester";
+    Toggle = "Umschalten";
+    "Video loops (0 = infinite)" = "Videoschleife (0 = Infinity)";
+}
