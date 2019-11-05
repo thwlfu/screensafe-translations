@@ -1,0 +1,20 @@
+{
+    "%i Loops" = "%i Паўторы";
+    "Choose video" = "Выбраць відэа";
+    "Credits" = "↓ Тытры";
+    "Download" = "Спампаваць";
+    "Download screensavers" = "Спампаваць застаўкі";
+    "Enable tweak" = "Актываваць твік";
+    "For helping me when i was stuck in developing " = "За тое, каб дапамагчы мне, калі я затрымаўся ў развіцці";
+    "Force clear video" = "Прымусьце ачысціць відэа";
+    "Force clear video in case you are unable to select a new one" = "Прымусьце ачысціць відэа ў выпадку, калі вы не можаце выбраць новае";
+    "Giving me the tweak idea" = "Дае мне ідэю твiка";
+    "LPM while in screensaver" = "Рэжым эканоміі энергіі падчас застаўкі";
+    "Only when authenticated" = "Только когда аутентифицированный";
+    "Other options" = "Iншыя опцыі";
+    "Scale to fill" = "Маштабаваць каб запоўніць";
+    "Select custom video" = "Выбраць ўласнае відэа";
+    "Testers" = "Тэсціроўшчыкі";
+    "Toggle" = "Тумблер";
+    "Video loops (0 = infinite)" = "Паўторы відэа (0 = бясконца)";
+}
